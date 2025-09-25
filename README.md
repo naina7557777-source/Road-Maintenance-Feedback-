@@ -11,7 +11,9 @@ Data is stored securely using Firebase Firestore.
 Tech Stack:
 
 Backend: Python (Flask)
+
 Database: Firebase Firestore
+
 Frontend: HTML, CSS, JavaScript
 
 Visualization: Dashboard with real-time data
